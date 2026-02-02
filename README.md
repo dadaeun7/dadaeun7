@@ -4,6 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Daeun%20Park&fontSize=70" />
 </p>
 
+### ✍️ Technical Blog & Logs
+- https://velog.io/@embed_silver/posts
+
 ### 🚀 Currently Focusing On
 - **Kernel & OS & Memory**: [Kernel Scheduling](https://github.com/dadaeun7/kernel-scheduing) - MLFQ 스케줄러 직접 구현 및 커널 메커니즘과 메모리 학습 🐧
 - **Network Programming**: [TCP/UDP Packet](https://github.com/dadaeun7/tcp-udp-server) - C++ 기반 TCP/UDP 채팅 서버 구축 및 최적화 💬
