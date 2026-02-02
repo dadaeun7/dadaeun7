@@ -35,13 +35,8 @@
 - Sentinel 기반 원형 연결 리스트 등 효율적인 자료구조를 활용해 시스템 안정성을 높였습니다.
 - 대용량 트래픽을 대비한 효율적인 메모리 처리를 구현중에 있습니다.
 
-~~#### ♻️ [Tuk-Tuk](https://github.com/dadaeun7/p-tuk-tuk)~~
-~~> **자동 분리배출 가이드 플랫폼**~~
-~~- 올바른 재활용 방법을 추천하여 환경 보호를 돕는 서비스입니다.~~
-~~- 사용자 경험을 고려한 인터페이스와 효율적인 데이터 처리에 집중하고 있습니다.~~
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dadaeun7&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadaeun7&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dadaeun7&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dadaeun7&layout=compact&theme=radical&hide_border=true" />
 </p>
