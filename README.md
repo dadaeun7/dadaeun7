@@ -29,6 +29,7 @@
 > 분산된 B2B SaaS(Slack, GitHub, Figma, Notion)의 웹훅 및 API 데이터를 하나의 타임라인으로 통합 수집하는 서비스입니다.
 > 
 > **[👉 Connect GitHub 저장소 바로가기](https://github.com/dadaeun7/connect)**
+> **[PPT 보러가기](https://drive.google.com/file/d/1YLEQ-wC_6tijueZkKahaWwa3CNrDwaLf/view?usp=sharing)**
 
 #### 📸 주요 시연 기능
 | 프로젝트 초대 및 권한 관리 | 외부 서비스 메시지 이슈 수집 |
@@ -53,6 +54,7 @@
 > 비정형 커머스 데이터를 Gmail 연동과 함께 분리배출 가이드라인을 제공하는 추천 서비스
 > 
 > **[👉 Reclever GitHub 저장소 바로가기](https://github.com/dadaeun7/reclever)** 
+> **[PPT 보러가기](https://drive.google.com/file/d/1VgjBi0XrcnUcuTdAWX36muccuNK46Knt/view?usp=sharing)**
 
 #### 📸 주요 시연 기능
 | Gmail 영수증 연동 메인 UI | 일자별 배출 통계 및 포인트 |
