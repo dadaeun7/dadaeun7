@@ -9,9 +9,6 @@
 * **gRPC 도입**: 메인 백엔드(Java)와 AI 추론 서비스(Python) 간 고성능·저레이턴시 IPC 통신 환경 구축을 위한 gRPC 도입
 * **머신 러닝 구축**: 비정형 상품명 데이터 패턴에 유연하게 대응하기 위한 LLM/머신러닝 기반 자동 분류 체계 설계 및 학습 데이터셋 가공
 * **유지보수**: AWS Lightsail 환경에서 Connect 서비스와 Reclever 직접 운영하며 컨테이너 로그 모니터링을 통한 이슈 추적 및 실시간 버그 수정 진행
-
-## ▪️ Live & Contact
-- **Portfolio:** https://main.daeun-tech.site
 ---
 
 ## ▪️ Tech Stack
@@ -28,7 +25,6 @@
 ### 1. Connect (B2B SaaS 통합 타임라인 서비스)
 > 분산된 B2B SaaS(Slack, GitHub, Figma, Notion)의 웹훅 및 API 데이터를 하나의 타임라인으로 통합 수집하는 서비스입니다.
 > 
-> **[👉 Connect GitHub 저장소 바로가기](https://github.com/dadaeun7/connect)**
 > **[PPT 보러가기](https://drive.google.com/file/d/1YLEQ-wC_6tijueZkKahaWwa3CNrDwaLf/view?usp=sharing)**
 
 #### 📸 주요 시연 기능
@@ -53,7 +49,6 @@
 ### 2. Reclever (AI 기반 분리배출 추천 파이프라인)
 > 비정형 커머스 데이터를 Gmail 연동과 함께 분리배출 가이드라인을 제공하는 추천 서비스
 > 
-> **[👉 Reclever GitHub 저장소 바로가기](https://github.com/dadaeun7/reclever)** 
 > **[PPT 보러가기](https://drive.google.com/file/d/1VgjBi0XrcnUcuTdAWX36muccuNK46Knt/view?usp=sharing)**
 
 #### 📸 주요 시연 기능
