@@ -4,9 +4,9 @@
 * **성능 최적화**: k6 부하 테스트 기반의 R2DBC 커넥션 풀 최적화를 통한 p(95) 레이턴시 및 가용성 검증
 * **인프라 & 라우팅**: Docker Compose 및 Traefik Reverse Proxy를 활용한 서버 환경 동적 라우팅/SSL 직접 구축
 * **비동기 데이터 파이프라인**: Spring Task Scheduler, Kafka, WebFlux를 연계한 외부 API 트래픽 완충 구조 구축
+* **gRPC 도입**: 메인 백엔드(Java)와 AI 추론 서비스(Python) 간 고성능·저레이턴시 IPC 통신 환경 구축을 위한 gRPC 도입
 
 ✅**현재 목표 및 진행 작업**
-* **gRPC 도입**: 메인 백엔드(Java)와 AI 추론 서비스(Python) 간 고성능·저레이턴시 IPC 통신 환경 구축을 위한 gRPC 도입
 * **머신 러닝 구축**: 비정형 상품명 데이터 패턴에 유연하게 대응하기 위한 LLM/머신러닝 기반 자동 분류 체계 설계 및 학습 데이터셋 가공
 * **유지보수**: AWS Lightsail 환경에서 Connect 서비스와 Reclever 직접 운영하며 컨테이너 로그 모니터링을 통한 이슈 추적 및 실시간 버그 수정 진행
 ---
